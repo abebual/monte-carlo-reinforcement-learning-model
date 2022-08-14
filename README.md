@@ -35,8 +35,19 @@ Frequency of playable cards available:
 ![Playable Cards](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/playable_cards.png)
 
 ### 4. Experments 
+
+Additional experments were conducted to:
+ 
+Understand if there is a first player advantage.
+
 ![Starting Advantage](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/starting%20advantage.png)
+
+Understand the exploration vs exploitation tradeoff.
+
 ![Q-Values Coverage](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/qvalues.png)
+
+Understand if any card has a playable advantage.
+
 ![Played Cards](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/playableCards.png)
 
 

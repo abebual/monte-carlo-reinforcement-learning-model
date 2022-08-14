@@ -1,8 +1,10 @@
 # Solving the UNO Card Game using Monte-Carlo Reinforcement Learning Model
 **Abebual Zerihun Demilew and Rachel Fisher**
 
+***
 ![UNO Card Game](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/uno.jpg) 
 `Image from Kohls.com`
+***
 
 In this project we developed a Monte-Carlo Reinforcment Learning Agent to play an optimal strategy to win a simplified scope of UNO Card Game. The project is stractured as follows:
 1. Game Environment 

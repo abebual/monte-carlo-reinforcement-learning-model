@@ -18,8 +18,13 @@ In this project we developed a Monte-Carlo Reinforcment Learning Agent to play a
 
 
 ### 1. Game Environment 
+In environment.py class objects for <i>card, deck, player, turn</i> and <i>game</i> are defined. In main.ipynb, the classes are imported as module, to run simulations. The state_action_reward.py includes the <i>state, action, </i> and <i>reward</i> class objects. 
+
 ### 2. Monte-Carlo Reinforcment Learning Agent 
+The monte-carlo method reinforcment learning algorithm is defined in agents.py module. 
+
 ### 3. Model Training and Performance 
+
 ### 4. Experments 
 
 **Python Version:** 3.7  

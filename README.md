@@ -2,8 +2,12 @@
 **Abebual Zerihun Demilew and Rachel Fisher**
 
 ***
+<p align="center">
+
 ![UNO Card Game](https://github.com/abebual/monte-carlo-reinforcement-learning-model/blob/main/uno.jpg) 
+    </p>
 `Image from Kohls.com`
+
 ***
 
 In this project we developed a Monte-Carlo Reinforcment Learning Agent to play an optimal strategy to win a simplified scope of UNO Card Game. The project is stractured as follows:
